@@ -1,0 +1,41 @@
+{
+    "status": "ok",
+    "totalResults": 69,
+    "articles": [{
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Alexandra Semenova",
+        "title": "Stock market news live updates: Stocks extend losses as investors weigh hawkish Powell remarks, more corporate earnings - Yahoo Finance",
+        "description": "U.S. stocks fell sharply on Friday as investors weighed a bevy of corporate earnings and braced for more aggressive interest rate hikes from the Federal...",
+        "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-april-22-2022-225944643.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/t8CLi.fz7HfjR8V5LTKgcw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-04/258ff170-c18e-11ec-bfe8-cbb501a6608c",
+        "publishedAt": "2022-04-22T18:00:12Z",
+        "content": "U.S. stocks fell sharply on Friday as investors weighed a bevy of corporate earnings and braced for more aggressive interest rate hikes from the Federal Reserve in coming months.\r\nThe S&amp;P 500 tum… [+7087 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Liz Alderman",
+        "title": "Carlos Ghosn Wanted by France for International Arrest - The New York Times",
+        "description": "Prosecutors say the disgraced auto tycoon channeled millions of euros in Renault funds through an Omani car distributor for personal use, including the purchase of a 120-foot yacht.",
+        "url": "https://www.nytimes.com/2022/04/22/business/france-arrest-warrant-carlos-ghosn.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/04/22/multimedia/22ghosn-france/22ghosn-france-facebookJumbo.jpg",
+        "publishedAt": "2022-04-22T17:57:01Z",
+        "content": "There was not a penny from Renault or Nissan that was unjustly given to me, directly or indirectly, he added.\r\nMr. Ghosn said he was eager to clear his name and hoped to eventually go to France to de… [+1295 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CNBC"
+        },
+        "author": "Sarah Min",
+        "title": "Stocks making the biggest moves midday: HCA Healthcare, Kimberly-Clark, Gap and more - CNBC",
+        "description": "These are the stocks posting the largest moves in midday trading.",
+        "url": "https://www.cnbc.com/2022/04/22/stocks-making-the-biggest-moves-midday-hca-healthcare-kimberly-clark-gap-and-more.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/106092591-1566506331712img_8175rr.jpg?v=1583519638&w=1920&h=1080",
+        "publishedAt": "2022-04-22T17:02:39Z",
+        "content": "Check out the companies making headlines in midday trading Friday.\r\nAmerican Express Shares of the payment firm dipped 1.1% despite American Express topping earnings expectations for the first quarte… [+1963 chars]"
+    }]
+}
